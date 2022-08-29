@@ -1,0 +1,22 @@
+.Student{
+    display: flex;
+}
+.left{
+    min-height: 91.1vh;
+    max-height: 150vh;
+    background-color: black;
+    width: 10vw;
+}
+.left div{
+    height: 8vh;
+    text-align: center;
+    padding-top: 1em;
+    box-sizing: border-box;
+    font-size: 1.3em;
+    border-bottom: 1px solid white;
+
+}
+.span{
+
+    color: white;
+}

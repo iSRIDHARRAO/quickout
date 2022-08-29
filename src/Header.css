@@ -1,0 +1,14 @@
+.Header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #363538;
+    color: #ffffff;
+}
+.outpass, .ongole{
+    padding: 0.7em;
+    font-size: 1.7em;
+    font-family: 'Raleway', 'sans-serif';
+}
+.sizein{
+    font-size: 1.5em;
+}

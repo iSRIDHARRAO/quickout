@@ -1,0 +1,40 @@
+
+.profile-main{
+   
+    background-color: lightgray;
+   width: 90vw;
+   min-height: 91vh;
+}
+.image-profile{
+    padding: 2em;
+    text-align: center;
+    color: red;
+}
+.image-profile img{
+    height: 15vh;
+    border-radius: 50%;
+}
+.centered-block{
+    padding: 2em;
+    position: relative;
+    left: 29vw;
+    width: 30vw;
+
+    box-shadow:  4px 4px 15px 5px rgb(0, 0, 0);
+
+
+}
+.profile-name, .profile-value{
+    color: rgb(37, 33, 33);
+    font-size: 1.2em;
+    padding: 0.5em ;
+    font-weight: 500;
+}
+.profile-name{
+    width: 43%;
+}
+.one{
+    display: flex;
+}
+
+

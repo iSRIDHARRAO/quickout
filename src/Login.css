@@ -1,0 +1,70 @@
+.Login{
+    display: flex;
+    justify-content: space-around;
+    background-color: lightpink;
+    height: 91vh;
+    align-items: center;
+    
+}
+.correction1{
+    position:absolute;
+    top: 48.2vh;
+    left: 40.8vw;
+    color: red;
+    font-weight: 600;
+}
+.correction2{
+    position:absolute;
+    top: 57.2vh;
+    left: 40.8vw;
+    color: red;
+    font-weight: 600;
+}
+.Login .uname-name{
+    margin-top: 6vh;
+    font-size: 1.2em;
+    padding-left: 3.2vw;
+}
+.Login .uname-name2{
+    font-size: 1.2em;
+    padding-top: 1vh;
+    padding-left: 3.2vw;
+}
+.Login .uname,.uname2{
+    margin-left: 3.2vw;
+}
+.Login .login-container{
+    box-shadow: 4px 4px 15px 5px black;
+    background-color: rgb(255, 255, 255);
+    height: 50vh;
+    width: 25vw;
+    box-sizing: border-box;
+
+}
+.Login submit{
+    text-align: center;
+   
+}
+
+.Login .login-container .submit-button1{
+    width: 4.5vw;
+    height: 3.5vh;
+    font-size: 1.0em;
+    font-weight: 600;
+    margin: 3vh 1vh 0 0vh;
+
+}
+.Login .login-container .submit-button2{
+    width: 4.5vw;
+    height: 3.5vh;
+    font-size: 1.0em;
+    font-weight: 600;
+    margin: 3vh 0 0vh 1vh;
+}
+.Login .note{
+    margin-top : 5vh;
+    margin-left: 10vh;
+}
+.Login .bold-span{
+    font-weight: bold;
+}

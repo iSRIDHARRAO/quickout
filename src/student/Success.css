@@ -1,0 +1,39 @@
+.Success{
+    width: 90vw;
+    background-color:lightgray;
+}
+.applied{
+    font-weight: 600;
+    font-size: 1.2em;
+    text-align: center;
+    display: flex;
+    padding: 0.8em 0 0.8em 0;
+    margin: 1.0em 0.5em 0 0.5em;
+    justify-content: space-around;
+    border: 1px solid black;
+    background-color: white;
+    text-decoration: underline;
+
+}
+.applied-values{
+    font-weight: 500;
+    font-size: 1.0em;
+    text-align: center;
+    display: flex;
+    padding: 0.8em 0 0.8em 0;
+    margin: 0em 0.5em 0em 0.5em;
+    justify-content: space-around;
+    border: 1px solid rgb(56, 50, 50);
+    background-color: white;
+}
+.number, .apply-name , .to, .status, .reason, .days{
+    width: 10vw;
+}
+.head{
+    margin-top: 1em;
+    text-align: center;
+    font-size: 2em;
+    font-weight: 600;
+    text-shadow: 1px 1px 2px black;
+    text-decoration: underline;
+}

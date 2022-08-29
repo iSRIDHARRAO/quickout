@@ -1,0 +1,31 @@
+.Home{
+    font-family: 'Roboto', sans-serif;
+    background-color: lightgray;
+    height: 91vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.student, .caretaker, .dean, .security{
+    background-color: #363538;
+    border-radius: 2em;
+    height: 33vh;
+    width: 15vw;
+    transition: box-shadow 0.2s;
+    padding: 2em;
+    box-sizing: border-box;
+}
+.student:hover, .caretaker:hover, .dean:hover, .security:hover{
+    box-shadow: 4px 4px 20px 5px rgb(0, 0, 0);
+    transition: box-shadow 0.2s;
+}
+.name{
+    text-decoration: none;
+    padding: 0.8em;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #ffffff;
+}
+img{
+    height: 23vh;
+}

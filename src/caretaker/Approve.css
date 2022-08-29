@@ -1,0 +1,11 @@
+.Approve{
+    background-color: lightgray;
+    width: 90vw;
+}
+.Approve button{
+    font-size: 1.2em;
+    /* margin: 1vh 1vh 1vh 1vh ; */
+    
+    width: 6vw;
+    font-weight: 500;
+}

@@ -1,0 +1,42 @@
+.Apply{
+    background-color: lightgray;
+    width: 90vw;
+}
+.apply-form{
+    margin: 2em;
+    display: flex;
+    justify-content: space-around;
+}
+.input-text{
+    padding-left: 0.5em;
+    font-size: 1.25em;
+    font-weight: 600;
+}
+.form-in-form{
+
+    padding: 2em;
+    
+    
+}
+input, .Apply select{
+    font-size: 1.0em;
+    margin: 0.5vh 1vh 1vh 1vh ;
+    height: 3vh;
+    width: 18vw;
+    
+}
+.Apply button{
+    font-size: 1.2em;
+    margin: 1vh 1vh 1vh 1vh ;
+    height: 3.5vh;
+    width: 8vw;
+    font-weight: 500;
+}
+.button{
+    display: flex;
+    justify-content: space-around;
+}
+.form-in-form{
+
+    box-shadow: 3px 3px 10px black;
+}

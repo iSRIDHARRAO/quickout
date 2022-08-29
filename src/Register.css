@@ -1,0 +1,85 @@
+.Register{
+    display: flex;
+    justify-content: space-around;
+    background-color: lightpink;
+    height: 91vh;
+    align-items: center;
+    
+}
+.for-flex{
+    display: flex;
+    justify-content: space-around;
+}
+.uname-name1{
+    width: 20vw;
+    margin-top: 5vh;
+    font-size: 1.2em;
+
+}
+.uname-name2{   
+    width: 20vw;
+    font-size: 1.2em;
+ 
+}
+ .pad2{
+   padding-left: 1.0vh;
+}
+/*.pad{
+    padding-left: 0.5vw;
+} */
+ /* .uname-name{
+    
+    font-size: 1.2em;
+    padding-left: 3.2vw;
+} */
+/* .uname-name2{
+    font-size: 1.2em;
+    padding-left: 3.2vw;
+} */
+/* .uname,.uname2{
+    margin-left: 3.2vw;
+} */
+.Register-container{
+    padding: 0vh 2vh 2vh 2vh;
+    box-shadow: 4px 4px 15px 5px black;
+    background-color: rgb(255, 255, 255);
+    width: 50vw;
+    box-sizing: border-box;
+    padding-bottom: 3vh;
+
+
+}
+.Register select{
+    font-size: 1.0em;
+    margin: 0.5vh 1vh 1vh 1vh ;
+    height: 3.5vh;
+    width: 18vw;
+
+}
+.submit{
+    text-align: center;
+   
+}
+
+.Register .Register-container .submit-button1{
+    width: 4.5vw;
+    height: 3.5vh;
+    font-size: 1.0em;
+    font-weight: 600;
+    margin: 3vh 2vh 0 0vh;
+
+}
+.Register .Register-container .submit-button2{
+    width: 4.5vw;
+    height: 3.5vh;
+    font-size: 1.0em;
+    font-weight: 600;
+    margin: 3vh 0 0vh 2vh;
+}
+.note{
+
+    margin-left: 10vh;
+}
+.bold-span{
+    font-weight: bold;
+}
